@@ -8,10 +8,6 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 </div>
 
-####
-
-####
-
 <div align="center">
 
 
@@ -20,7 +16,9 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 [![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=NoroffFEU&repo=FED1-PE1-Whisperpiano&theme=tokyonight)](https://github.com/NoroffFEU/FED1-PE1-Whisperpiano)
 
+
 [![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=WhisperPiano&repo=SemesterProject1_CommunityScienceMuseum&theme=tokyonight)](https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum)
+
 
 [![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=WhisperPiano&repo=GameOn&theme=tokyonight)](https://github.com/Whisperpiano/GameOn)
 
