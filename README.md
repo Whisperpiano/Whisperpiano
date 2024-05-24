@@ -12,10 +12,12 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 </div>
 
-<div align="center" class="latest-works">
+<div align="center">
 
 
 ### Latest works
+
+<div class="latest-works">
 
 <a href="https://github.com/NoroffFEU/FED1-PE1-Whisperpiano">
 <img src="https://i.imgur.com/4yc4Jl0.jpg" alt="Soundwaves picture">
@@ -26,6 +28,8 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 <a href="https://github.com/Whisperpiano/GameOn">
 <img src="https://i.imgur.com/Pg1T3JO.jpg" alt="GameOn picture">
 </a>
+
+</div>
 
 </div>
 
