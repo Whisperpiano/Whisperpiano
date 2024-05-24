@@ -10,6 +10,7 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 
 <div align="center">
+
 ### 💻 Skills 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
