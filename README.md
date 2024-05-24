@@ -19,6 +19,22 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 ### Latest works
 
+
+<style>
+    section {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+}
+
+section a {
+    max-width: 200px;
+}
+section a img {
+    aspect-ratio: 1;
+    max-width: 200px;
+}
+    </style>
+
 <section>
 
 <a href="https://github.com/NoroffFEU/FED1-PE1-Whisperpiano">
