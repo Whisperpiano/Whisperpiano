@@ -52,8 +52,6 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whisperpiano&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 </div>
 
