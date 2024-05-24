@@ -6,7 +6,7 @@
 
 </div>
 
-Hola from the land of fjords! Jesus here, tickling ivories by day and coding pixels by night. From the warmth of Spain to the cool vibes of Norway, I'm on a mission to make music and tech collide in the most harmonious way possible! Join me on this musical coding adventure—let's compose some digital symphonies together! 🎹💻✨
+Hola from the land of fjords! Jesus here, tickling ivories by day and coding pixels by night. From the warmth of Spain to the cool vibes of Norway, I'm on a mission to make music and tech collide in the most harmonious way possible! Let's compose some digital symphonies together! 🎹💻✨
 
 
 
