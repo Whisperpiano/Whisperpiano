@@ -17,7 +17,7 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 ### Latest works
 
-[SoundWaves Discoveries](https://i.imgur.com/qMAq5pc.jpg)(https://github.com/NoroffFEU/FED1-PE1-Whisperpiano)
+[!SoundWaves Discoveries](https://i.imgur.com/qMAq5pc.jpg)(https://github.com/NoroffFEU/FED1-PE1-Whisperpiano)
 
 [CSM museum](https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum)
 
