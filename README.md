@@ -1,4 +1,4 @@
-![Banner of Whisperpiano](./img/github-header-image.png)
+
 
 <div align="center">
 
