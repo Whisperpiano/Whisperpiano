@@ -19,9 +19,7 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 
 
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=WhisperPiano&repo=SemesterProject1_CommunityScienceMuseum&theme="dark")](https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum)
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=WhisperPiano&repo=SemesterProject1_CommunityScienceMuseum)](https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum)
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=WhisperPiano&repo=SemesterProject1_CommunityScienceMuseum)](https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=WhisperPiano&repo=SemesterProject1_CommunityScienceMuseum&theme=dark)](https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum)
 
 
 <a href="https://github.com/NoroffFEU/FED1-PE1-Whisperpiano" style="max-width:100px;">
