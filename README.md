@@ -1,5 +1,19 @@
 <link rel="stylesheet" href="user.css">
 
+<section>
+
+<a href="https://github.com/NoroffFEU/FED1-PE1-Whisperpiano">
+<img src="https://i.imgur.com/4yc4Jl0.jpg" alt="Soundwaves picture">
+</a>
+<a href="https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum">
+<img src="https://i.imgur.com/rMU1Cno.jpg" alt="Museum picture">
+</a>
+<a href="https://github.com/Whisperpiano/GameOn">
+<img src="https://i.imgur.com/Pg1T3JO.jpg" alt="GameOn picture">
+</a>
+
+</section>
+
 
 ![Banner of Whisperpiano](./img/github-header-image.png)
 
@@ -20,19 +34,7 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 ### Latest works
 
-<section>
 
-<a href="https://github.com/NoroffFEU/FED1-PE1-Whisperpiano">
-<img src="https://i.imgur.com/4yc4Jl0.jpg" alt="Soundwaves picture">
-</a>
-<a href="https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum">
-<img src="https://i.imgur.com/rMU1Cno.jpg" alt="Museum picture">
-</a>
-<a href="https://github.com/Whisperpiano/GameOn">
-<img src="https://i.imgur.com/Pg1T3JO.jpg" alt="GameOn picture">
-</a>
-
-</section>
 
 </div>
 
