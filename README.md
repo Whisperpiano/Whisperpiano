@@ -17,6 +17,14 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 ### Latest works
 
+<style>
+    .latest-works {
+        display:grid;
+        grid-template-columns: repeat(3,1fr);
+        align-items: center;
+    }
+</style>
+
 <div class="latest-works">
 
 <a href="https://github.com/NoroffFEU/FED1-PE1-Whisperpiano">
@@ -63,13 +71,6 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 </div>
 
-
-<style>
-    .latest-works {
-        display:grid;
-        grid-template-columns: repeat(3,1fr)
-    }
-</style>
 <!--
 **Whisperpiano/Whisperpiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
