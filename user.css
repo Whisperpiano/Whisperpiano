@@ -2,3 +2,8 @@ section {
     display: grid !important;
     grid-template-columns: repeat(3, 1fr) !important;
 }
+
+section a img {
+    aspect-ratio: 1;
+    max-width: 200px;
+}
