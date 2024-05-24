@@ -17,22 +17,21 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 ### Latest works
 
-<div class="latest-works" style="display: grid; grid-template-columns: repeat(3, 1fr)">
+<div class="latest-works" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center;">
 
-<a href="https://github.com/NoroffFEU/FED1-PE1-Whisperpiano" style="max-width=100px;">
-<img src="https://i.imgur.com/4yc4Jl0.jpg" alt="Soundwaves picture">
+<a href="https://github.com/NoroffFEU/FED1-PE1-Whisperpiano" style="text-decoration: none;">
+<img src="https://i.imgur.com/4yc4Jl0.jpg" alt="Soundwaves picture" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 </a>
-<a href="https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum">
-<img src="https://i.imgur.com/rMU1Cno.jpg" alt="Museum picture">
+<a href="https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum" style="text-decoration: none;">
+<img src="https://i.imgur.com/rMU1Cno.jpg" alt="Museum picture" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 </a>
-<a href="https://github.com/Whisperpiano/GameOn">
-<img src="https://i.imgur.com/Pg1T3JO.jpg" alt="GameOn picture">
+<a href="https://github.com/Whisperpiano/GameOn" style="text-decoration: none;">
+<img src="https://i.imgur.com/Pg1T3JO.jpg" alt="GameOn picture" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 </a>
 
 </div>
 
 </div>
-
 
 <div align="center">
 
