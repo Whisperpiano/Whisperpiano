@@ -1,4 +1,4 @@
-## Hi there! 👋
+![Banner of Whisperpiano](./img/github-header-image.png)
 
 <!--
 **Whisperpiano/Whisperpiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
