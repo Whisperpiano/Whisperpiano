@@ -17,7 +17,6 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 ### Latest works
 
-<div class="latest-works" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center;">
 
 <style>
 .latest-works {
@@ -38,6 +37,8 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
     border-radius: 5px;
 }
 </style>
+
+<div class="latest-works" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center;">
 
 <a href="https://github.com/NoroffFEU/FED1-PE1-Whisperpiano" style="text-decoration: none;">
 <img src="https://i.imgur.com/4yc4Jl0.jpg" alt="Soundwaves picture" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
