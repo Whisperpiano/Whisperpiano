@@ -17,9 +17,11 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 ### Latest works
 
-<a href"https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum" target="_blank"> CSM museum (semester project) </a>
+[SoundWaves Discoveries](https://github.com/NoroffFEU/FED1-PE1-Whisperpiano)
 
+[CSM museum](https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum)
 
+[GameOn](https://github.com/Whisperpiano/GameOn)
 
 </div>
 
