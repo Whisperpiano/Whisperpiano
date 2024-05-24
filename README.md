@@ -17,7 +17,9 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 ### Latest works
 
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=WhisperPiano&repo=GameOn&theme=tokyonight)](https://github.com/Whisperpiano/GameOn)
 
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=WhisperPiano&repo=SemesterProject1_CommunityScienceMuseum&theme=tokyonight)](https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum)
 
 [![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=WhisperPiano&repo=SemesterProject1_CommunityScienceMuseum&theme=tokyonight)](https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum)
 
