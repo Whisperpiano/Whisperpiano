@@ -8,6 +8,10 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 </div>
 
+<div>
+
+</div>
+
 
 
 
@@ -16,18 +20,30 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 ### 💻 Skills 
 
+<div>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div>
+<div>
+
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+</div>
+<div>
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whisperpiano&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
