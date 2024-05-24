@@ -9,6 +9,8 @@
 Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pixels by night. From the warmth of Spain to the cool vibes of Norway, I'm on a mission to make music and tech collide in the most harmonious way possible! Let's compose some digital symphonies together! 🎹
 
 [![Whisperpiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whisperpiano)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Whisperpiano&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whisperpiano)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 💻 Skills 
 
