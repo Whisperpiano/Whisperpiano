@@ -19,7 +19,7 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 ### Latest works
 
-<div class="latest-works" style="display: grid; grid-template-columns: repeat(3, 1fr)">
+<section class="latest-works" style="display: grid; grid-template-columns: repeat(3, 1fr)">
 
 <a href="https://github.com/NoroffFEU/FED1-PE1-Whisperpiano">
 <img src="https://i.imgur.com/4yc4Jl0.jpg" alt="Soundwaves picture">
@@ -31,7 +31,7 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 <img src="https://i.imgur.com/Pg1T3JO.jpg" alt="GameOn picture">
 </a>
 
-</div>
+</section>
 
 </div>
 
