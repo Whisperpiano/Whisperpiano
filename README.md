@@ -1,4 +1,4 @@
-<link href="./style.css" rel="stylesheet"></link>
+<link href="user.css" rel="stylesheet"></link>
 
 ![Banner of Whisperpiano](./img/github-header-image.png)
 
