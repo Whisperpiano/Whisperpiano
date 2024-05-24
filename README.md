@@ -1,4 +1,6 @@
+<head>
 <link rel="stylesheet" href="user.css">
+</head>
 
 ![Banner of Whisperpiano](./img/github-header-image.png)
 
@@ -18,22 +20,6 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 
 ### Latest works
-
-
-<style>
-    section {
-    display: grid !important;
-    grid-template-columns: repeat(3, 1fr) !important;
-}
-
-section a {
-    max-width: 200px;
-}
-section a img {
-    aspect-ratio: 1;
-    max-width: 200px;
-}
-    </style>
 
 <section>
 
