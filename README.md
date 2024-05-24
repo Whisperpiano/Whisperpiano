@@ -17,23 +17,10 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 
 ### Latest works
 
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=WhisperPiano&repo=GameOn&theme=tokyonight)](https://github.com/Whisperpiano/GameOn)
 
 [![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=NoroffFEU&repo=FED1-PE1-Whisperpiano&theme=tokyonight)](https://github.com/NoroffFEU/FED1-PE1-Whisperpiano)
-
 [![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=WhisperPiano&repo=SemesterProject1_CommunityScienceMuseum&theme=tokyonight)](https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum)
-
-
-<a href="https://github.com/NoroffFEU/FED1-PE1-Whisperpiano" style="max-width:100px;">
-<img src="https://i.imgur.com/4yc4Jl0.jpg" alt="Soundwaves picture">
-</a>
-<a href="https://github.com/Whisperpiano/SemesterProject1_CommunityScienceMuseum">
-<img src="https://i.imgur.com/rMU1Cno.jpg" alt="Museum picture">
-</a>
-<a href="https://github.com/Whisperpiano/GameOn">
-<img src="https://i.imgur.com/Pg1T3JO.jpg" alt="GameOn picture">
-</a>
-
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=WhisperPiano&repo=GameOn&theme=tokyonight)](https://github.com/Whisperpiano/GameOn)
 
 </div>
 
