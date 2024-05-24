@@ -1,23 +1,3 @@
-![Banner of Whisperpiano](./img/github-header-image.png)
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jes%C3%BAs-alberola-herrero-896b61189/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusalberola90@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/jesus.alberolaherrero/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/whispers_piano/)
-
-Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pixels by night. From the warmth of Spain to the cool vibes of Norway, I'm on a mission to make music and tech collide in the most harmonious way possible! Let's compose some digital symphonies together! 🎹
-
-</div>
-
-<div>
-
-</div>
-
-<div align="center">
-
-
-### Latest works
-
-
 <style>
 .latest-works {
     display: grid;
@@ -37,6 +17,26 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
     border-radius: 5px;
 }
 </style>
+
+
+![Banner of Whisperpiano](./img/github-header-image.png)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jes%C3%BAs-alberola-herrero-896b61189/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusalberola90@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/jesus.alberolaherrero/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/whispers_piano/)
+
+Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pixels by night. From the warmth of Spain to the cool vibes of Norway, I'm on a mission to make music and tech collide in the most harmonious way possible! Let's compose some digital symphonies together! 🎹
+
+</div>
+
+<div>
+
+</div>
+
+<div align="center">
+
+
+### Latest works
 
 <div class="latest-works" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center;">
 
