@@ -8,11 +8,9 @@
 
 Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pixels by night. From the warmth of Spain to the cool vibes of Norway, I'm on a mission to make music and tech collide in the most harmonious way possible! Let's compose some digital symphonies together! 🎹
 
-[![Whisperpiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whisperpiano)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Whisperpiano&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whisperpiano&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 💻 Skills 
+<div align="center">
+### 💻 Skills 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,6 +23,9 @@ Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pix
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whisperpiano&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 
 
