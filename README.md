@@ -4,14 +4,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jes%C3%BAs-alberola-herrero-896b61189/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusalberola90@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/jesus.alberolaherrero/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/whispers_piano/)
 
-Hola from the land of fjords! I'm Jesús, tickling ivories by day and coding pixels by night. From the warmth of Spain to the cool vibes of Norway, I'm on a mission to make music and tech collide in the most harmonious way possible! Let's compose some digital symphonies together! 🎹
+¡Hola!👋 I'm Jesús, a Spaniard living in the land of fjords, aka Norway! 🇪🇸🇳🇴 Currently diving into the exciting world of front-end development in my first year of studies. By day, I'm a piano teacher 🎹, crafting beautiful melodies as a composer. By night, you'll find me chasing semicolons and debugging my way through the wonderful world of code! 💻✨
 
 </div>
 
 <div align="center">
 
 
-### Latest works
+### 🚀 Latest works
 
 
 [![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=NoroffFEU&repo=FED1-PE1-Whisperpiano&theme=tokyonight)](https://github.com/NoroffFEU/FED1-PE1-Whisperpiano)
