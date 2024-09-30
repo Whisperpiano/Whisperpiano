@@ -14,7 +14,7 @@
 ### 🚀 Latest works
 
 
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=NoroffFEU&repo=Soundwaves&theme=tokyonight)](https://github.com/NoroffFEU/Soundwaves)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=NoroffFEU&repo=FED1-PE1-Whisperpiano&theme=tokyonight)](https://github.com/NoroffFEU/FED1-PE1-Whisperpiano)
 
 [![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=WhisperPiano&repo=CommunityScienceMuseum&theme=tokyonight)](https://github.com/Whisperpiano/CommunityScienceMuseum)
 
