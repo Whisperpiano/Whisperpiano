@@ -1,5 +1,4 @@
-![Banner of Whisperpiano](./img/github-header-image(3).png)
-
+![Banner of Whisperpiano](<./img/github-header-image(3).png>)
 
 <div align="center">
 Connect with me
@@ -8,33 +7,23 @@ Connect with me
 
 </div>
 
-***
+---
 
-¡Hola!👋 I'm Jesús, a Spaniard living in the land of fjords, aka Norway! 🇪🇸🇳🇴 
+¡Hola!👋 I'm Jesús, a Spaniard living in the land of fjords, aka Norway! 🇪🇸🇳🇴
 </br>
+
 - By day, I'm a piano teacher, crafting beautiful melodies as a composer.
 - By night, you'll find me chasing semicolons and debugging my way through the wonderful world of code! 💻✨
 - Currently studying
 
-
-
-***
-
-
-
+---
 
 ### 📊 GitHub Stats
-  
+
 ![Jesús' GitHub stats](https://github-readme-stats.vercel.app/api?username=Whisperpiano&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whisperpiano&layout=compact&theme=radical)
 
-
-
-
-
-
-
-***
+---
 
 ### 💻 Main tech knowledge
 
@@ -66,9 +55,7 @@ Connect with me
 
 ### 💻 GitHub Stats
 
-***
-
-
+---
 
 <div align="center">
 
@@ -85,3 +72,9 @@ See my portfolio
 poner visitors tambien!!
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Whisperpiano/Whisperpiano/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Whisperpiano/Whisperpiano/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Whisperpiano/Whisperpiano/output/github-snake.svg" />
+</picture>
