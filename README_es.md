@@ -1,20 +1,20 @@
-## 𝗚𝗿𝗲𝗲𝘁𝗶𝗻𝗴𝘀, <𝚜𝚌𝚛𝚒𝚙𝚝> 𝘄𝗶𝘇𝗮𝗿𝗱𝘀! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## 𝗦𝗮𝗹𝘂𝗱𝗼𝘀, <𝚜𝚌𝚛𝚒𝚙𝚝> 𝘄𝗶𝘇𝗮𝗿𝗱𝘀! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <div align="right">
   &bull;
-  <a href="README.md"><img src="img/usa-flag.png" height="13"> English</a>
+  <a href="README.md"><img src="img/usa-flag.png" height="13"> Inglés</a>
   &nbsp;&nbsp;&bull;
-  <a href="README_no.md"><img src="img/no-flag.png" height="13"> Norwegian</a>
+  <a href="README_no.md"><img src="img/no-flag.png" height="13"> Noruego</a>
   &nbsp;&nbsp;&bull;  
-  <a href="README_es.md"><img src="img/es-flag.png" height="13"> Spanish</a>
+  <a href="README_es.md"><img src="img/es-flag.png" height="13"> Español</a>
 </div>
 
-**👾 About me** **`(Frontend Developer & Music Composer)`**
+**👾 Sobre mi** **`(Frontend Developer & Compositor de Música)`**
 
-- 🌱 Currently studying Front-End Development at Noroff.
-- 💻 By day: slaying bugs and crafting awesome UIs
-- 🎵 By night: summoning epic tunes and composing soundtracks for the multiverse.
-- 📍 Coordinates: Stavanger, Norway. Origin story: Spain
+- 🌱 Actualmente estudiando Desarrollo Front-End en Noroff.
+- 💻 De día: eliminando errores y creando interfaces de usuario increíbles.
+- 🎵 De noche: invocando melodías épicas y componiendo bandas sonoras para el multiverso.
+- 📍 Coordinates: Stavanger, Noruega. Historia de origen: España.
 
 <!-- <div align="left">
   <a href="https://www.linkedin.com/in/jes%C3%BAs-alberola-herrero-896b61189/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,7 +57,7 @@
   </div>
   <br/>
 
-**Tools & Deployment**
+**Herramientas y Despliegue**
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -68,7 +68,7 @@
   </div>
   <br/>
 
-**Design**
+**Diseño**
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
@@ -77,7 +77,7 @@
 </details>
 
 <details>
-  <summary><b>📊 GitHub Stats</b></summary>
+  <summary><b>📊 Estadísticas de GitHub</b></summary>
   <br/>
     <p align="center">
         <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Whisperpiano&show_icons=true&theme=radical" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whisperpiano&layout=compact&theme=radical" />
@@ -85,12 +85,12 @@
 </details>
 
 <details>
-  <summary><b>💬 What I am Currently Learning</b></summary>
+  <summary><b>💬 Lo que estoy aprendiendo actualmente</b></summary>
   <p>
    
-- 🖥️ **TypeScript Mastery**: Focused on becoming really good at TypeScript to write more robust and maintainable code.
-- 🧰 **Zod**: Investigating Zod for schema validation in TypeScript, as it's an excellent tool for type-safe validation.
-- 🔍 **Backend Exploration**: Diving into backend technologies to build a full-stack skill set, exploring databases, APIs, and server-side development.
+- 🖥️ **Dominio de Typescript**: Enfocado en ser realmente bueno en TypeScript para escribir código más robusto y mantenible.
+- 🧰 **Zod**: Investigando Zod para validación de esquemas en TypeScript, ya que es una herramienta excelente para validación segura de tipos.
+- 🔍 **Backend Exploration**: Sumergiéndome en tecnologías de backend para construir un conjunto de habilidades full-stack, explorando bases de datos, APIs y desarrollo del lado del servidor.
   
   </p>
 </details>
@@ -107,7 +107,7 @@
     </a>
   </div>
 
-  <p><i>Take a look at my portfolio or repositories and let's get in touch!</i></p>
+  <p><i>¡Echa un vistazo a mi portafolio o repositorios y pongámonos en contacto!</i></p>
 
   <div>
     <a href="https://www.linkedin.com/in/jes%C3%BAs-alberola-herrero-896b61189/">

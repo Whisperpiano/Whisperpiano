@@ -1,20 +1,20 @@
-## 𝗚𝗿𝗲𝗲𝘁𝗶𝗻𝗴𝘀, <𝚜𝚌𝚛𝚒𝚙𝚝> 𝘄𝗶𝘇𝗮𝗿𝗱𝘀! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## 𝗛𝗲𝗶, <𝚜𝚌𝚛𝚒𝚙𝚝> 𝘄𝗶𝘇𝗮𝗿𝗱𝘀! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <div align="right">
   &bull;
-  <a href="README.md"><img src="img/usa-flag.png" height="13"> English</a>
+  <a href="README.md"><img src="img/usa-flag.png" height="13"> Engelsk</a>
   &nbsp;&nbsp;&bull;
-  <a href="README_no.md"><img src="img/no-flag.png" height="13"> Norwegian</a>
+  <a href="README_no.md"><img src="img/no-flag.png" height="13"> Norsk</a>
   &nbsp;&nbsp;&bull;  
-  <a href="README_es.md"><img src="img/es-flag.png" height="13"> Spanish</a>
+  <a href="README_es.md"><img src="img/es-flag.png" height="13"> Spansk</a>
 </div>
 
-**👾 About me** **`(Frontend Developer & Music Composer)`**
+**👾 Om meg** **`(Frontend Developer & Musikkomponist)`**
 
-- 🌱 Currently studying Front-End Development at Noroff.
-- 💻 By day: slaying bugs and crafting awesome UIs
-- 🎵 By night: summoning epic tunes and composing soundtracks for the multiverse.
-- 📍 Coordinates: Stavanger, Norway. Origin story: Spain
+- 🌱 For øyeblikket studerer jeg Front-End Development ved Noroff.
+- 💻 På dagtid: Bekjemper feil og lager fantastiske brukergrensesnitt.
+- 🎵 Om natten: Kaller frem episke melodier og komponerer filmmusikk for multiverset.
+- 📍 Koordinater: Stavanger, Norge. Opprinnelseshistorie: Spania
 
 <!-- <div align="left">
   <a href="https://www.linkedin.com/in/jes%C3%BAs-alberola-herrero-896b61189/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,7 @@
 ---
 
 <details>
-  <summary><b>🛠️ Tech Stack</b></summary>
+  <summary><b>🛠️ Teknologistack</b></summary>
   </br>
 
 **Front-End Development**
@@ -57,7 +57,7 @@
   </div>
   <br/>
 
-**Tools & Deployment**
+**Verktøy**
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -77,7 +77,7 @@
 </details>
 
 <details>
-  <summary><b>📊 GitHub Stats</b></summary>
+  <summary><b>📊 GitHub Statistikk</b></summary>
   <br/>
     <p align="center">
         <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Whisperpiano&show_icons=true&theme=radical" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whisperpiano&layout=compact&theme=radical" />
@@ -85,12 +85,12 @@
 </details>
 
 <details>
-  <summary><b>💬 What I am Currently Learning</b></summary>
+  <summary><b>💬 Hva lærer jeg nå?</b></summary>
   <p>
    
-- 🖥️ **TypeScript Mastery**: Focused on becoming really good at TypeScript to write more robust and maintainable code.
-- 🧰 **Zod**: Investigating Zod for schema validation in TypeScript, as it's an excellent tool for type-safe validation.
-- 🔍 **Backend Exploration**: Diving into backend technologies to build a full-stack skill set, exploring databases, APIs, and server-side development.
+- 🖥️ **TypeScript Mastery**: Fokusert på å bli virkelig god i TypeScript for å skrive mer robust og vedlikeholdbar kode.
+- 🧰 **Zod**: Utforsker Zod for skjema-validering i TypeScript, da det er et utmerket verktøy for type-sikker validering.
+- 🔍 **Backend Exploration**: Dykker inn i backend-teknologier for å bygge et full-stack ferdighetssett, utforsker databaser, API-er og server-side utvikling.
   
   </p>
 </details>
@@ -107,7 +107,7 @@
     </a>
   </div>
 
-  <p><i>Take a look at my portfolio or repositories and let's get in touch!</i></p>
+  <p><i>Ta en titt på porteføljen min eller repositoryene mine, og la oss ta kontakt!</i></p>
 
   <div>
     <a href="https://www.linkedin.com/in/jes%C3%BAs-alberola-herrero-896b61189/">
