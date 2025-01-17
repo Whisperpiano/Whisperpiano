@@ -10,7 +10,7 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Español</a></td></tr>
 </table> -->
 
-- 🌱 Currently studying Front-End Development at\*Noroff.
+- 🌱 Currently studying Front-End Development at Noroff.
 - 💻 By day: slaying bugs and crafting awesome UIs
 - 🎵 By night: summoning epic tunes and composing soundtracks for the multiverse.
 - 📍 Coordinates: Stavanger, Norway. Origin story: Spain
