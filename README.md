@@ -1,6 +1,6 @@
 ## 𝗚𝗿𝗲𝗲𝘁𝗶𝗻𝗴𝘀, <𝚜𝚌𝚛𝚒𝚙𝚝> 𝘄𝗶𝘇𝗮𝗿𝗱𝘀! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-**🪄 About me** **`(Frontend Developer & Music Composer)`**
+**👾 About me** **`(Frontend Developer & Music Composer)`**
 
 <!-- TODO: add language flags -->
 
@@ -26,6 +26,7 @@
 
 <details>
   <summary><b>🛠️ Tech Stack</b></summary>
+  </br>
 
 **Front-End Development**
 
@@ -44,9 +45,8 @@
     <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query" />
     <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
   </div>
-
   <br/>
-
+  
 **Back-End Development**
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -54,7 +54,6 @@
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   </div>
-
   <br/>
 
 **Tools & Deployment**
@@ -66,7 +65,6 @@
     <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="PNPM" />
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   </div>
-
   <br/>
 
 **Design**
@@ -83,20 +81,16 @@
     <p align="center">
         <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Whisperpiano&show_icons=true&theme=radical" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whisperpiano&layout=compact&theme=radical" />
     </p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Whisperpiano/Whisperpiano/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Whisperpiano/Whisperpiano/output/github-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/Whisperpiano/Whisperpiano/output/github-snake.svg" />
-    </picture>
 </details>
+
 <details>
   <summary><b>💬 What I am Currently Learning</b></summary>
   <p>
-
+   
 - 🖥️ **TypeScript Mastery**: Focused on becoming really good at TypeScript to write more robust and maintainable code.
 - 🧰 **Zod**: Investigating Zod for schema validation in TypeScript, as it's an excellent tool for type-safe validation.
 - 🔍 **Backend Exploration**: Diving into backend technologies to build a full-stack skill set, exploring databases, APIs, and server-side development.
-
+  
   </p>
 </details>
 
@@ -105,13 +99,17 @@
 <br>
 
 <div align="center">
-  
+
+
   <div>
     <a href="https://jesusalberola.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Visit my portfolio">
     </a>
   </div>
+
+  
   <p><i>Take a look at my portfolio or repositories and let's get in touch!</i></p>
+  
 
   <div>
     <a href="https://www.linkedin.com/in/jes%C3%BAs-alberola-herrero-896b61189/">
@@ -129,6 +127,15 @@
     </br>
   </div>
 </div>
+
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Whisperpiano/Whisperpiano/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Whisperpiano/Whisperpiano/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Whisperpiano/Whisperpiano/output/github-snake.svg" />
+</picture>
+
+
 
 <!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Whisperpiano&style=plastic&label=Profile views"><img>
